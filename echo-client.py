@@ -1,6 +1,6 @@
-#!/usr/bin/python
+﻿#!/usr/bin/python
 # -*- coding: latin-1 -*-
-#
+#AQUIIIII ESCRIBI YOOOOO NATHA
 # Este es el programa cliente de un servicio de echo. Un servicio de echo (eco)
 # como su nombre lo sugiere quiere decir que lo que recibe el servidor lo 
 # regresa tal cual al cliente. Si el cliente envia un 'hola mundo' el servidor
